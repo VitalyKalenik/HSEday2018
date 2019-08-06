@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">HSE day 2018</string>
+    <string name="title_map">Map</string>
+    <string name="title_quest">Quest</string>
+    <string name="title_info">About HSE</string>
+    <string name="faculties">Faculties</string>
+    <string name="organisations">Organisations</string>
+    <string name="organisation">Organisation</string>
+    <string name="faculty">Faculty</string>
+    <string name="faculty_descrition">Faculty image</string>
+    <string name="hse">HSE</string>
+    <string name="passed">Passed</string>
+    <string name="enter_the_code">Input the code</string>
+    <string name="check_the_code">Check</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="correct">Correct</string>
+    <string name="quests_passed">Passed %1$d out of 17</string>
+    <string name="quests_passed_short">%1$d out of 17</string>
+    <string name="departments">Departments</string>
+    <string name="about_hse">Студенческая жизнь Вышки – это более 140 студенческих организаций, тысячи мероприятий и свое студенческое самоуправление. Студенческая жизнь Вышки практически не поддается описанию: слишком динамичная, разнообразная и для каждого своя. Единственный способ ее познать – стать ее частью.</string>
+    <string name="org_group_1">Спортивные</string>
+    <string name="org_group_2">Добрые проекты</string>
+    <string name="org_group_3">Бизнес и карьера</string>
+    <string name="org_group_4">Развлекательные</string>
+    <string name="org_group_5">Театр и кино</string>
+    <string name="org_group_6">Музыка</string>
+    <string name="org_group_7">Просвещение</string>
+    <string name="org_group_8">СМИ</string>
+    <string name="org_group_9">Вышка без границ</string>
+    <string name="your_progress">Your progress</string>
+    <string name="quest_instruction">После прохождения 14 из 17 точек (можно больше 14, помни о качестве прохождения) приходи к шатру, предъяви маршрутный лист и готовься получать ништяки от спонсоров!
+Помни,что главное ты уже получил - знания о Вышке и весёлое время в компании друзей!</string>
+    <string name="quest_text_before">Come to the quest "The Way of Freshman" on September 13 from the Ingroup CtC and become a real student of HSE! Points of the quest are marked on the map in the application - go through everything and get your prize in the marquee of giving gifts! And if something goes wrong with the phone, you can always get a paper version of the card. See you on "The Day of HSE"!</string>
+    <string name="quest_text_after">"The Way of Freshman" from the Ingroup CtC. You will take part in tasks that prepare for all challenges of student life! You just need an app and the desire to have fun. The points of the quest are marked on the map - you can pass and get your prize in the marquee of giving gifts! And if something goes wrong with the phone, you can always get a paper version of the card. See you at "The Day of HSE"!</string>
+</resources>

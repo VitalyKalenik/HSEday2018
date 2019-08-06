@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:layout_marginBottom="16dp">
+
+    <TextView
+        android:id="@+id/lecture_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:text="10:00 - 11:00"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <TextView
+        android:id="@+id/lecture_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/primary_text"
+        android:text="Лекция"
+        app:layout_constraintTop_toBottomOf="@id/lecture_time"/>
+
+    <TextView
+        android:id="@+id/lecture_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/primary_text"
+        android:text="Описание к лекции"
+        app:layout_constraintTop_toBottomOf="@id/lecture_title"/>
+
+    <TextView
+        android:id="@+id/lecture_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/secondary_text"
+        android:text="Лектор - Каленик Виталий"
+        app:layout_constraintTop_toBottomOf="@id/lecture_text"/>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,155 @@
+[
+  {
+    "number": "1",
+    "name": "Lecture",
+    "description": "You missed a few lectures and decided to ask a couple of synopses from a classmate, but you did not expect the handwriting to be so incomprehensible. The task for a minute to figure out what is written. (Some papers on them or an incomprehensible handwriting or a simple cipher)",
+    "passcode": "2T0OlJQNmXLYbVxyZYQWiQ==",
+    "passed": false,
+    "x": -22.0,
+    "y": -15.0
+  },
+  {
+    "number": "2",
+    "name": "Military classes",
+    "description": "Find out what they really do in the military classes. You have the Nth number of seconds to put on your military uniform while the match is burning. Girls can not pass this point, they immediately receive a \"tick\"",
+    "passcode": "u0dnRrwldcrEj+/vaK7jIw==",
+    "passed": false,
+    "x": -15.0,
+    "y": -64.0
+  },
+  {
+    "number": "3",
+    "name": "Lessons of life lessons",
+    "description": "The course of security lessons is almost useless, but the safety exam is generally a real horror! You need to answer 5 really difficult questions on the topic",
+    "passcode": "vg6NQqwdCwAyHxyaHDtrqQ==",
+    "passed": false,
+    "x": -37.0,
+    "y": -38.0
+  },
+  {
+    "number": "4",
+    "name": "The office of your program",
+    "description": "Getting to the office of your program is not always a simple task, the HSE buildings are real mazes. Find the right path to the training",
+    "passcode": "lD2I2wP2/ZyDO4aZQ5sDLQ==",
+    "passed": false,
+    "x": -32.0,
+    "y": -9.0
+  },
+  {
+    "number": "5",
+    "name": "Metro stations",
+    "description": "All the buildings of the Tower are scattered around Moscow, and not everyone knows where they are located, but many have not even heard about the abbreviated names of these buildings. But there can always be a situation when you need to be in several buildings at the same time. I think it is unrealistic? Just try! (Map lead on a large cork Board, the insider calls the abbreviated names of buildings, you must correctly indicate them on the map)",
+    "passcode": "IbGSl35yXydh8g2qkRTFHA==",
+    "passed": false,
+    "x": 0.0,
+    "y": -59
+  },
+  {
+    "number": "6",
+    "name": "Credits",
+    "description": "A card game where you open the same cards in pairs. Each pair of cards = one subject from the academic program + really easy question on it. If the participant responds, he gets + 10 credits, no answer = gets nothing and just take punishment. The task is to get 60 credits",
+    "passcode": "4LstHWn1BKdwfJ7EUIog0g==",
+    "passed": false,
+    "x": -22.0,
+    "y": -62.0
+  },
+  {
+    "number": "7",
+    "name": "LMS",
+    "description": "It is hard to upload your work in LMS. You just try! (We connect a large number of participants and make them go through some difficult area or get into a narrow space and get out of it)",
+    "passcode": "klDkTLRZzuHgfsOpLe6P+Q==",
+    "passed": false,
+    "x": -24.0,
+    "y": 2.0
+  },
+  {
+    "number": "8",
+    "name": "English exam",
+    "description": "You know it well, pass this point of programme",
+    "passcode": "dG7nicVq/NJ+I1VlhTpNUQ==",
+    "passed": false,
+    "x": 14.0,
+    "y": 43.0
+  },
+  {
+    "number": "9",
+    "name": "PE",
+    "description": "The physical test will require maximum effort from you. So here you have the point!",
+    "passcode": "3s/RnMU+NFgRRfHaIMe6hg==",
+    "passed": false,
+    "x": 24.0,
+    "y": 20.0
+  },
+  {
+    "number": "10",
+    "name": "1 year of exams",
+    "description": "Let the exams begin and let luck always be on your side! Your task is to draw two cards!\"1 exam\" The first session is the easiest. Name the name of at least one of your teachers\" session 2 \"the Second exam is very difficult and can not do without friends. Find the person from your Department to bring in the\" session 3 \"the Third is also simple. Three times play the teacher (me) TIC TAC toe\" exam 4 - \"the fourth session is usually all written coursework. Hold the Cup. Get some water!»",
+    "passcode": "ciM0EavDn8ybobdwGg8s0w==",
+    "passed": false,
+    "x": -2.5,
+    "y": 56.5
+  },
+  {
+    "number": "11",
+    "name": "The theme of course work",
+    "description": "Your task from one capacity with colored water(written off information from the recommended literature) to pour into another so as to obtain a standard exchange rate water with a percentage of borrowing, go for it! It can be difficult to remember who is in what building, you have to relate the faculty to the body ,and if you do not know, then use the people around!",
+    "passcode": "czH8AYAoSQloH02uMcyk+Q==",
+    "passed": false,
+    "x": -5.5,
+    "y": -9.0
+  },
+  {
+    "number": "12",
+    "name": "Choose easy subject",
+    "description": "Not always possible to be with luck, try your luck and learn normally, the task of getting a dart in the right ball.",
+    "passcode": "Z7GQXLztxlhYi0MFEOifVQ==",
+    "passed": false,
+    "x": -17.0,
+    "y": 34.0
+  },
+  {
+    "number": "13",
+    "name": "Relax time",
+    "description": "Tired, not finished the subject, wanted to eat or just to yell, your chance for free time! 5 minutes, chill on the blankets and poufs! Do not be late for the next point, your task is to monitor the time",
+    "passcode": "YCYWdeHQtVMnhTMGa2ZAXQ==",
+    "passed": false,
+    "x": -3.5,
+    "y": 13.0
+  },
+  {
+    "number": "14",
+    "name": "HSE tutors",
+    "description": "About the quotes of the teacher Rigs is legendary, guess where the quote westney the individual, and where the famous Sensei HSE",
+    "passcode": "cGGQIHiXPHJMerEWMP2xug==",
+    "passed": false,
+    "x": 14.5,
+    "y": -3.5
+  },
+  {
+    "number": "15",
+    "name": "Easy exam",
+    "description": "How not to go to the exam, if you have no points?! Go through the complicated limbo and do not leave the walls of your favorite university",
+    "passcode": "AA0LWoW+ZcUouIc6sg4Qbg==",
+    "passed": false,
+    "x": 4.0,
+    "y": -6.0
+  },
+  {
+    "number": "16",
+    "name": "Discount",
+    "description": "To keep your position in the ranking of students must be very resourceful, try yourself in the game \"Tick-Tock-Flew-with-discount\" on a given theme organizer",
+    "passcode": "cDNJT24vTgOMWbCKbGAKMQ==",
+    "passed": false,
+    "x": -22.0,
+    "y": -43.0
+  },
+  {
+    "number": "17",
+    "name": "Abbreviation",
+    "description": "This certainly need to know, and if not, then choose from student list of truthful and false",
+    "passcode": "Ai9Hs9fhcHVogFgvxvpwFQ==",
+    "passed": false,
+    "x": -20.0,
+    "y": -80.0
+  }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f9f9f9</color>
+    <color name="colorPrimaryDark">#f9f9f9</color>
+    <color name="colorAccent">#4d6749</color>
+    <color name="statusBarColor">#222222</color>
+    <color name="navigationBarColor">#1e373c</color>
+    <color name="colorRipple">#d6d7d8</color>
+    <color name="navBarChecked">#558a96</color>
+    <color name="navBarBackground">#27484d</color>
+
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#606060</color>
+</resources>

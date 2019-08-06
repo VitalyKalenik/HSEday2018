@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">День Вышки 2018</string>
+    <string name="title_map">Карта</string>
+    <string name="title_quest">Квест</string>
+    <string name="title_info">О Вышке</string>
+    <string name="faculties">Факультеты</string>
+    <string name="faculty">Факультет</string>
+    <string name="faculty_descrition">Картинка к факультету</string>
+    <string name="organisations">Организации</string>
+    <string name="organisation">Организация</string>
+    <string name="passed">Пройдено</string>
+    <string name="enter_the_code">Введите код</string>
+    <string name="hse">ВШЭ</string>
+    <string name="check_the_code">Проверить</string>
+    <string name="incorrect">Неверно</string>
+    <string name="correct">Верно</string>
+    <string name="quests_passed">Пройдено %1$d из 17</string>
+    <string name="quests_passed_short">%1$d из 17</string>
+    <string name="departments">Направления</string>
+    <string name="your_progress">Твой прогресс</string>
+    <string name="org_group_1">Спортивные</string>
+    <string name="org_group_2">Добрые проекты</string>
+    <string name="org_group_3">Бизнес и карьера</string>
+    <string name="org_group_4">Развлекательные</string>
+    <string name="org_group_5">Театр и кино</string>
+    <string name="org_group_6">Музыка</string>
+    <string name="org_group_7">Просвещение</string>
+    <string name="org_group_8">СМИ</string>
+    <string name="org_group_9">Вышка без границ</string>
+    <string name="quest_instruction">После прохождения 14 из 17 точек (можно больше 14, помни о качестве прохождения) приходи к шатру, предъяви маршрутный лист и готовься получать ништяки от спонсоров!
+Помни,что главное ты уже получил - знания о Вышке и весёлое время в компании друзей!</string>
+    <string name="about_hse">Студенческая жизнь Вышки – это более 140 студенческих организаций, тысячи мероприятий и свое студенческое самоуправление. Студенческая жизнь Вышки практически не поддается описанию: слишком динамичная, разнообразная и для каждого своя. Единственный способ ее познать – стать ее частью.</string>
+    <string name="quest_text_before">Приходи 13 сентября на квест «Путь Первака» от Ингруп СтС и стань настоящим Вышкинцем! Точки квеста отмечены на карте в приложении — пройди все и получи свой приз в шатре выдачи подарков! А если с телефоном что-то пойдет не так, там же ты всегда сможешь получить бумажную версию карты. До встречи на Дне Вышке!</string>
+    <string name="quest_text_after">Уже сегодня приходи на День Вышки и прими участие в квесте «Путь Первака» от Ингруп СтС. Тебя ждут задания, которые подготовят тебя ко всем испытаниям студенческой жизни! Тебе не понадобится ничего, кроме этого приложения и желания весело провести время. Точки квеста отмечены на карте — пройди все и получи свой приз в шатре выдачи подарков! А если с телефоном что-то пойдет не так, там же ты всегда сможешь получить бумажную версию карты. До встречи на Дне Вышки!</string>
+</resources>
